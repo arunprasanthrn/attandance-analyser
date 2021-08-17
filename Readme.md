@@ -2,8 +2,6 @@
 
 Face Recognition using OpenCV in Python
 
-# Youtube Tutorial
-https://youtu.be/h21wMKGs0qs
 
 ### Prerequisites
 
